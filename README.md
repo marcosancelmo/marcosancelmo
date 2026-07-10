@@ -63,7 +63,7 @@ Me chamo Marcos Ancelmo, sou natural de Dourados, Mato Grosso do Sul. Sou formad
     title="mysql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <img 
