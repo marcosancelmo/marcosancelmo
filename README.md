@@ -2,7 +2,7 @@
 
 **`Ciência e Análise de dados`**
 
-Me chamo Marcos Ancelmo, sou natural de Dourados, Mato Grosso do Sul. Sou formado como técnico em Informática para Internet pelo IFMS, integrado ao ensino médio, onde atuei como monitor de lógica de programação e desenvolvi iniciações científicas. Atualmente, curso Ciência de Dados na UFMS, com previsão de conclusão em 2027. Minha trajetória profissional inclui experiência como Técnico de Suporte na rede pública estadual de educação e como Analista de TI em um escritório de contabilidade, onde desenvolvi soluções de infraestrutura e processos de ETL. Meu foco de carreira está na área de análise, ciência e engenharia de dados, Business Intelligence e tecnologia aplicada à gestões empresarial.
+Me chamo Marcos Ancelmo, sou natural de Dourados, Mato Grosso do Sul. Sou formado como técnico em Informática para Internet pelo IFMS, integrado ao ensino médio. Atualmente, curso Ciência de Dados/UFMS. Minha trajetória profissional inclui experiência como Técnico de Suporte na rede pública estadual de educação e como Analista de TI em um escritório de contabilidade, onde desenvolvi soluções de infraestrutura e processos de ETL. Meu foco de carreira está na área de análise, ciência e engenharia de dados, Business Intelligence e tecnologia aplicada à gestões empresarial.
 
 
 ---
