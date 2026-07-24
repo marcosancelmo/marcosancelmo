@@ -1,4 +1,4 @@
-# 👨‍💻 Marcos Ancelmo
+#  Marcos Ancelmo
 
 **`Ciência e Análise de dados`**
 
@@ -7,7 +7,7 @@ Me chamo Marcos Ancelmo, sou natural de Dourados, Mato Grosso do Sul. Sou formad
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -16,6 +16,14 @@ Me chamo Marcos Ancelmo, sou natural de Dourados, Mato Grosso do Sul. Sou formad
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -49,14 +57,6 @@ Me chamo Marcos Ancelmo, sou natural de Dourados, Mato Grosso do Sul. Sou formad
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
