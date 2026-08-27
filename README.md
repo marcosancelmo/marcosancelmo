@@ -2,7 +2,7 @@
 
 **`Ciência e Análise de dados`**
 
-Sou profissional de Tecnologia da Informação, com formação técnica em Informática para Internet pelo IFMS e atualmente estudante de Ciência de Dados na UFMS. Possuo experiência em suporte, infraestrutura, sistemas, automação e melhoria de processos.
+Profissional de Tecnologia da Informação, com formação técnica em Informática para Internet pelo IFMS e atualmente estudante de Ciência de Dados na UFMS. Possuo experiência em suporte, infraestrutura, sistemas, automação e melhoria de processos.
 
 Tenho experiência com Power BI, Power Query e Excel, além de conhecimentos em Python, SQL, estatística, bancos de dados e ETL. Minha trajetória combina conhecimento técnico, capacidade analítica e visão de negócio, com foco na utilização de dados e tecnologia para otimizar processos, gerar insights e apoiar a tomada de decisões.
 
